@@ -46,8 +46,9 @@
 // );
 
 import React from "react";
-import App from "./all_videos/react_forms/App";
+import App from "./all_videos/component_tree_challenge/App";
 import ReactDOM from "react-dom";
+import ClassCounter from "./components/ClassCounter"
 
 ReactDOM.render(
   <App />,
